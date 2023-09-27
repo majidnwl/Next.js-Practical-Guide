@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "2023-09-27T11:59:28.848Z",
+      "title": "go to school",
+      "completed": false
+    },
+    {
+      "id": "2023-09-27T11:59:39.999Z",
+      "title": "have a drink",
+      "completed": false
+    },
+    {
+      "id": "2023-09-27T11:59:45.659Z",
+      "title": "buy a book",
+      "completed": false
+    }
+  ]
+}
